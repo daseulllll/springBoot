@@ -1,7 +1,0 @@
-#나만의 gitignore!
-.cache/
-dist/
-node_modules/
-package-lock.json
-
-
